@@ -1,3 +1,4 @@
+"use client";
 import StockFearGreed from "./components/StockFearGreed";
 import AdvanceDeclineChart from "./components/AdvanceDeclineChart";
 
